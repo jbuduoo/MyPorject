@@ -1,0 +1,7 @@
+com\tw\MyPorject\controller\GetPropertiesController.class
+com\tw\MyPorject\controller\IndexController.class
+com\tw\MyPorject\MyPorjectApplication.class
+com\tw\MyPorject\controller\HelloController.class
+com\tw\MyPorject\controller\GetValueController.class
+com\tw\MyPorject\controller\FileUploadController.class
+com\tw\MyPorject\controller\RequestController.class
